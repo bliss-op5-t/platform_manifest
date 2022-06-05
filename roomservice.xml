@@ -15,3 +15,4 @@
     <!-- kernel repo -->
   <project path="kernel/oneplus/msm8998" name="kernel-oneplus-msm8998" revision="twelve" clone-depth="1" remote="yaap-op5t" />
   <project path="vendor/oneplus" name="proprietary_vendor_oneplus" revision="twelve" remote="bliss-op5-t" />
+</manifest>   
